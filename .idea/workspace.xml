@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="ConstructAGraph">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Graphdimensions.java" afterDir="false" />
+    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="ConstructAGraph verbessert">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BowlingPins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BowlingPinsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConstructAGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructAGraph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +41,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707915998547</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ConstructAGraph verbessert">
+      <created>1707981339133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707981339133</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +119,7 @@
     <MESSAGE value="Collinaerity" />
     <MESSAGE value="CountTheDevisibleNumbers" />
     <MESSAGE value="ConstructAGraph" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConstructAGraph" />
+    <MESSAGE value="ConstructAGraph verbessert" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConstructAGraph verbessert" />
   </component>
 </project>
