@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="ConstructAGraph verbessert">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BowlingPins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BowlingPinsTest.java" afterDir="false" />
+    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="BowlingPins erstellt und getestet">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Squareable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SquareableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BowlingPins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingPins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707981339133</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="BowlingPins erstellt und getestet">
+      <created>1713344037513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713344037513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +127,7 @@
     <MESSAGE value="CountTheDevisibleNumbers" />
     <MESSAGE value="ConstructAGraph" />
     <MESSAGE value="ConstructAGraph verbessert" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConstructAGraph verbessert" />
+    <MESSAGE value="BowlingPins erstellt und getestet" />
+    <option name="LAST_COMMIT_MESSAGE" value="BowlingPins erstellt und getestet" />
   </component>
 </project>
