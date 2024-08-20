@@ -1,3 +1,5 @@
+package Graphdimensions;
+
 import java.awt.Point;
 
 public class ConstructAGraph {

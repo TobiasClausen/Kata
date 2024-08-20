@@ -1,3 +1,5 @@
+package BowlingPins;
+
 public class BowlingPins {
     char space =' ';
     char pin = 'I';

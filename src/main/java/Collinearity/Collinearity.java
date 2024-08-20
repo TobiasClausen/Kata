@@ -1,4 +1,4 @@
-
+package Collinearity;
 
 
 public class Collinearity {

@@ -4,21 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="Squareable erstellt und getestet">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountIPAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PokerHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ScreenLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleSumOfPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CountIPAddressesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PokerHandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SimpleSumOfPairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SudokuSolverTest.java" afterDir="false" />
+    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="add PokerHand, CountIPAddresses, ScreenLock, SimpleSumOfPairs, SudokuSolver">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/DAONumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistanceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SonarDistance/Sonardistance.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/DAONumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BowlingPins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingPins/BowlingPins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collinearity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collinearity/Collinearity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConstructAGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Graphdimensions/ConstructAGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CountIPAddresses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountIPAddresses/CountIPAddresses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CountTheDevisibleNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountTheDevisibleNumbers/CountTheDevisibleNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Graphdimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Graphdimensions/Graphdimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PokerHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PokerHand/PokerHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ScreenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ScreenLock/ScreenLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleSumOfPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleSumOfPairs/SimpleSumOfPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Squareable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Squareable/Squareable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SudokuSolver/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BowlingPinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BowlingPinsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CollinearityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollinearityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConstructAGraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConstructAGraphTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CountIPAddressesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CountIPAddressesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CountTheDevisibleNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CountTheDevisibleNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PokerHandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PokerHandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ScreenLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScreenLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleSumOfPairsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleSumOfPairsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SquareableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SquareableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SudokuSolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SudokuSolverTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +70,19 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "/Users/tobiasclausen/Documents/CSS/2024/Projekte/Kata",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tobiasclausen/Documents/CSS/2024/Projekte/Kata&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -73,9 +90,64 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SonarDistance" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="SonarDistance" />
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DAONumbersTest.getNumbers">
+    <configuration name="DAONumbersTest.getNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SonarDistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SonarDistance" />
+      <option name="MAIN_CLASS_NAME" value="SonarDistance.DAONumbersTest" />
+      <option name="METHOD_NAME" value="getNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonarDistanceCountTest.getCountOfIncreasments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <option name="PACKAGE_NAME" value="SonarDistance" />
+      <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistanceCountTest" />
+      <option name="METHOD_NAME" value="getCountOfIncreasments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonarDistanceTest.getDistanceCountWithInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SonarDistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SonarDistance" />
+      <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistanceTest" />
+      <option name="METHOD_NAME" value="getDistanceCountWithInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DAONumbersTest.getNumbers" />
+        <item itemvalue="JUnit.SonarDistanceTest.getDistanceCountWithInput" />
+        <item itemvalue="JUnit.SonarDistanceCountTest.getCountOfIncreasments" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -135,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713356114404</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add PokerHand, CountIPAddresses, ScreenLock, SimpleSumOfPairs, SudokuSolver">
+      <created>1724133054999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724133054999</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +236,7 @@
     <MESSAGE value="ConstructAGraph verbessert" />
     <MESSAGE value="BowlingPins erstellt und getestet" />
     <MESSAGE value="Squareable erstellt und getestet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Squareable erstellt und getestet" />
+    <MESSAGE value="add PokerHand, CountIPAddresses, ScreenLock, SimpleSumOfPairs, SudokuSolver" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PokerHand, CountIPAddresses, ScreenLock, SimpleSumOfPairs, SudokuSolver" />
   </component>
 </project>

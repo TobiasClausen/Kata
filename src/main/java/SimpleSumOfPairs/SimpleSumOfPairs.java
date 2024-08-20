@@ -1,3 +1,5 @@
+package SimpleSumOfPairs;
+
 import java.util.ArrayList;
 
 public class SimpleSumOfPairs {

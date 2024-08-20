@@ -1,3 +1,5 @@
+package Squareable;
+
 public class Squareable {
     public static int countSquareable(int n){
         int count=0;

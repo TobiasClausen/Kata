@@ -1,3 +1,5 @@
+package Kata;
+
 import java.util.*;
 public class Kata {
     public static long nextSmaller(long n) {

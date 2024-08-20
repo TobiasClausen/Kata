@@ -1,3 +1,5 @@
+package PokerHand;
+
 import java.util.*;
 
 public class PokerHand {

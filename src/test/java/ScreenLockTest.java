@@ -1,7 +1,6 @@
-import static org.junit.jupiter.api.Assertions.*;
+import ScreenLock.ScreenLock;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 class ScreenLockTest {
     ScreenLock sl = new ScreenLock();

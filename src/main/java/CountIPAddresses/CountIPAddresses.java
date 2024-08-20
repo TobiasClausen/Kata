@@ -1,3 +1,5 @@
+package CountIPAddresses;
+
 public class CountIPAddresses {
 
     public static long ipsBetween(String start, String end) {

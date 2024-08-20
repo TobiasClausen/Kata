@@ -1,3 +1,5 @@
+package SudokuSolver;
+
 public class SudokuSolver {
     public static int[][] sudoku(int[][] puzzle) {
         solveSudoku(puzzle);

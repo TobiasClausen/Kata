@@ -1,4 +1,6 @@
 import static org.junit.Assert.*;
+
+import PokerHand.PokerHand;
 import org.junit.Test;
 
 public class PokerHandTest

@@ -1,3 +1,5 @@
+package ScreenLock;
+
 import java.util.*;
 public class ScreenLock {
     // Skip array to store invalid intermediate points

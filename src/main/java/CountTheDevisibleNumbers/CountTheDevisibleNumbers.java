@@ -1,3 +1,5 @@
+package CountTheDevisibleNumbers;
+
 public class CountTheDevisibleNumbers {
     public static long divisibleCount(long x, long y, long k) {
 
