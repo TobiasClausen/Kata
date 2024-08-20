@@ -4,11 +4,11 @@ public class SonarDistenceCountedByGroup {
 
     public int getCountsOnIncreamentsGrouped(int[] sonarReport){
         SonarDistanceCount sonarDistanceCount = new SonarDistanceCount();
-        int[] threeMeasurement = mapToMedian(sonarReport);
+        int[] threeMeasurement = mapToGroup(sonarReport);
         return sonarDistanceCount.getCountOfIncreasments(threeMeasurement);
     }
 
-    public int[] mapToMedian(int[] sonarReport){
+    int[] mapToGroup(int[] sonarReport){
         int[] sonarReportGrouped = new int[sonarReport.length-2];
         for (int i = 0; i < sonarReportGrouped.length;i++){
             sonarReportGrouped[i] = getSum(sonarReport[i], sonarReport[i+1], sonarReport[i+2]);

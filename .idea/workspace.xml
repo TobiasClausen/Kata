@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="refactor SonarDistance (package)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistenceCountedByGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistenceCountedByGroupTest.java" afterDir="false" />
+    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="add SonarDistenceCountedByGroup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistanceWorkflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistanceWorkflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SonarDistance/DAONumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/DAONumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceCountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceCountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceWorkflowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistanceWorkflowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistenceCountedByGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SonarDistance/SonarDistenceCountedByGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistenceCountedByGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SonarDistance/SonarDistenceCountedByGroupTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,18 +70,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SonarDistanceIntegrationTest.SonarDistenceCountedByGroup">
-    <configuration name="SonarDistanceCountTest.getCountOfIncreasments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SonarDistenceCountedByGroupTest.mapToGroup">
+    <configuration name="All in Kata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
-      <option name="PACKAGE_NAME" value="SonarDistance" />
-      <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistanceCountTest" />
-      <option name="METHOD_NAME" value="getCountOfIncreasments" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SonarDistanceIntegrationTest.SonarDistanceCountWithDAONumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SonarDistance in Kata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -95,9 +88,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SonarDistance" />
-      <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistanceIntegrationTest" />
-      <option name="METHOD_NAME" value="SonarDistanceCountWithDAONumbers" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SonarDistenceCountedByGroupTest.getCountsOnIncreamentsGrouped" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SonarDistenceCountedByGroupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -128,13 +119,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="SonarDistance" />
       <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistenceCountedByGroupTest" />
-      <option name="METHOD_NAME" value="getCountsOnIncreamentsGrouped" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SonarDistenceCountedByGroupTest.mapToMedian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SonarDistenceCountedByGroupTest.mapToGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -144,7 +134,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="SonarDistance" />
       <option name="MAIN_CLASS_NAME" value="SonarDistance.SonarDistenceCountedByGroupTest" />
-      <option name="METHOD_NAME" value="mapToMedian" />
+      <option name="METHOD_NAME" value="mapToGroup" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SonarDistenceCountedByGroupTest.mapToGroup" />
+        <item itemvalue="JUnit.SonarDistance in Kata" />
+        <item itemvalue="JUnit.All in Kata" />
+        <item itemvalue="JUnit.SonarDistenceCountedByGroupTest" />
         <item itemvalue="JUnit.SonarDistanceIntegrationTest.SonarDistenceCountedByGroup" />
-        <item itemvalue="JUnit.SonarDistenceCountedByGroupTest.getCountsOnIncreamentsGrouped" />
-        <item itemvalue="JUnit.SonarDistenceCountedByGroupTest.mapToMedian" />
-        <item itemvalue="JUnit.SonarDistanceIntegrationTest.SonarDistanceCountWithDAONumbers" />
-        <item itemvalue="JUnit.SonarDistanceCountTest.getCountOfIncreasments" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724142797473</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add SonarDistenceCountedByGroup">
+      <created>1724151217731</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724151217731</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +261,16 @@
     <MESSAGE value="add PokerHand, CountIPAddresses, ScreenLock, SimpleSumOfPairs, SudokuSolver" />
     <MESSAGE value="add SonarDistance" />
     <MESSAGE value="refactor SonarDistance (package)" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor SonarDistance (package)" />
+    <MESSAGE value="add SonarDistenceCountedByGroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SonarDistenceCountedByGroup" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kata$All_in_Kata.ic" NAME="All in Kata Coverage Results" MODIFIED="1724151864406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Kata$SonarDistenceCountedByGroupTest.ic" NAME="SonarDistenceCountedByGroupTest Coverage Results" MODIFIED="1724151788683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SonarDistance.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kata$SonarDistance_in_Kata.ic" NAME="SonarDistance in Kata Coverage Results" MODIFIED="1724151928491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SonarDistance.*</FILTER>
+    </SUITE>
   </component>
 </project>

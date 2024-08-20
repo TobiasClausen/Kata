@@ -8,10 +8,10 @@ class SonarDistenceCountedByGroupTest {
 
     SonarDistenceCountedByGroup testee = new SonarDistenceCountedByGroup();
     @Test
-    void mapToMedian(){
+    void mapToGroup(){
         int[] sonarReport = {199, 200, 208, 210, 200, 207, 240, 269, 260, 263};
 
-        int[] actualGroup = testee.mapToMedian(sonarReport);
+        int[] actualGroup = testee.mapToGroup(sonarReport);
 
         assertEquals(actualGroup[0], 607);
     }
@@ -24,6 +24,5 @@ class SonarDistenceCountedByGroupTest {
         int actualCount = testee.getCountsOnIncreamentsGrouped(sonarReport);
 
         assertEquals(expectedCount, actualCount);
-
     }
 }
