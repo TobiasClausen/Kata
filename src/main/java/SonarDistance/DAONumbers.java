@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DAONumbers {
-    public int[] getNumbers(String path){
+    public int[] getNumbers(String path) {
         List<Integer> numbers = new ArrayList<>();
 
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(path))) {

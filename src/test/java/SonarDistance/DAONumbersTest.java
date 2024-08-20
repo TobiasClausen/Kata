@@ -1,7 +1,8 @@
 package SonarDistance;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 class DAONumbersTest {
     @Test
@@ -13,6 +14,6 @@ class DAONumbersTest {
         for (int distance : actual){
             System.out.println(distance);
         }
-        Assertions.assertNotNull(actual);
+        assertNotNull(actual);
     }
 }
