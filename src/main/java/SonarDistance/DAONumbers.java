@@ -13,10 +13,7 @@ public class DAONumbers {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(path))) {
             String line;
             while ((line = bufferedReader.readLine()) != null) {
-                String[] tokens = line.split("\\n+");
-                for (String token : tokens) {
-                    numbers.add(Integer.parseInt(token));
-                }
+                numbers.add(Integer.parseInt(line));
             }
         } catch (IOException e) {
             e.printStackTrace();

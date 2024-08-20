@@ -1,6 +1,6 @@
 package SonarDistance;
 
-public class SonarDistance {
+public class SonarDistanceWorkflow {
     public int getDistanceCountWithInput(){
         DAONumbers daoNumbers = new DAONumbers();
         SonarDistanceCount sonarDistance = new SonarDistanceCount();

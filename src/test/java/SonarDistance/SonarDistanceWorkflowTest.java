@@ -3,12 +3,10 @@ package SonarDistance;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class SonarDistanceTest {
+class SonarDistanceWorkflowTest {
     @Test
     void getDistanceCountWithInput(){
-        SonarDistance testee = new SonarDistance();
+        SonarDistanceWorkflow testee = new SonarDistanceWorkflow();
 
         int actual = testee.getDistanceCountWithInput();
 
