@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="BowlingPins erstellt und getestet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Squareable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SquareableTest.java" afterDir="false" />
+    <list default="true" id="84b13182-5dc7-4fb8-93c1-d53b13e19e2d" name="Changes" comment="Squareable erstellt und getestet">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PokerHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ScreenLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleSumOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CountIPAddressesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PokerHandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SimpleSumOfPairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SudokuSolverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BowlingPins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingPins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -41,18 +53,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/tobiasclausen/Documents/CSS/2024/Projekte/Kata",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
@@ -107,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713344037513</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Squareable erstellt und getestet">
+      <created>1713356114404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356114404</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +156,7 @@
     <MESSAGE value="ConstructAGraph" />
     <MESSAGE value="ConstructAGraph verbessert" />
     <MESSAGE value="BowlingPins erstellt und getestet" />
-    <option name="LAST_COMMIT_MESSAGE" value="BowlingPins erstellt und getestet" />
+    <MESSAGE value="Squareable erstellt und getestet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Squareable erstellt und getestet" />
   </component>
 </project>
